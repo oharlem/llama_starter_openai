@@ -1,0 +1,11 @@
+name: llama_starter_openai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - protobuf
+  - pandas
+  - datasets
+  - ipywidgets
+  - jupyterlab
